@@ -4,7 +4,7 @@
 
 This Git repository is where I push the work I'm doing on the Udemy course named "Ethereum and Solidity: The Complete Developer's Guide" for my own knowledge and curiosity.
 
-## Description
+## Description of the course
 
 Smart Contracts? They're here.  The Ethereum Blockchain?  Covered.  Solidity?  Yep!
 
@@ -44,3 +44,7 @@ Who this course is for:
 
     Programmers looking to leverage blockchain technology for advanced apps
     Engineers who want to understand Ethereum and how to build apps with it
+
+## Link to the course
+
+https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/

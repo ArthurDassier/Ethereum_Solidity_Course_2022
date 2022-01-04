@@ -4,6 +4,14 @@
 
 This Git repository is where I push the work I'm doing on the Udemy course named "Ethereum and Solidity: The Complete Developer's Guide" for my own knowledge and curiosity.
 
+### Inbox folder
+
+Smart Contract that stores a string that can be changed by a public function call.
+
+### Lottery folder
+
+Lottery system that you can enter by sending some Ether to the Smart Contract, the person that created this Smart Contract can then call a function to pick a winner randomly in the list of participants and then automatically send him all the money stored. The list of participant is then reset.
+
 ## Description of the course
 
 Smart Contracts? They're here.  The Ethereum Blockchain?  Covered.  Solidity?  Yep!

@@ -37,28 +37,28 @@ describe('Inbox', () => {
 
 // ----------- SECTION 3 VIDEO 47 : TEST WITH MOCHA -----------
 
-// class Car {
-//     park() {
-//         return 'stopped';
-//     }
+class Car {
+    park() {
+        return 'stopped';
+    }
 
-//     drive() {
-//         return 'vroom';
-//     }
-// }
+    drive() {
+        return 'vroom';
+    }
+}
 
-// let car = 0;
+let car = 0;
 
-// beforeEach(() => {
-//     car = new Car();
-// });
+beforeEach(() => {
+    car = new Car();
+});
 
-// describe('Car Class', () => {
-//     it('can park or WHAT ?!', () => {
-//         assert.equal(car.park(), 'stopped');
-//     });
+describe('Car Class', () => {
+    it('can park or WHAT ?!', () => {
+        assert.equal(car.park(), 'stopped');
+    });
 
-//     it('can drive this time ?', () => {
-//         assert.equal(car.drive(), 'vroom');
-//     });
-// });
+    it('can drive this time ?', () => {
+        assert.equal(car.drive(), 'vroom');
+    });
+});
